@@ -1,121 +1,56 @@
-<div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
-</div>
-<p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
-    <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
-</p>
+###     මාරයා bot 🎭 සිංහල බොටෙක් අපේ ම බොටා 
+ඔයාලත් හදලා බලන්න පහල අපෙ ශපොට් group එක තියෙනවා
+[![Profile views](https://komarev.com/ghpvc/?username=king-ravana-SL&label=Profile%20Views&color=red)](https://github.com/yasasdileepa/slDILEEPA)
 
-----
-<div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot :</h1>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F72194&size=15&lines=Hi+im+Maraya+whatsapp+bot+coded+by+yasas+dileepa;You+can+made+Maraya+whatsapp+bot;And+funy+momen;Thanks+to+yasas+dileepa;And+adisha+lakshitha+%2C+KG+amda+%2C+MR+dina+and+Black+Amda;%E2%9D%A4%EF%B8%8F%F0%9F%A4%B4%E2%9D%A4%EF%B8%8F++;%F0%9F%A4%B4King+Maraya%F0%9F%A4%B4)](https://git.io/typing-svg)
+  <img src="https://i.ibb.co/99Nfwfy/a62902c0458a23d705492bb701371a43-cool-wallpapers-for-iphone-wallpaper-for-iphone.jpg" width="300" height="300">      
+  <h1>maraya 😼</h1>  
+       | © | MADE BY DILEEPA |
 
-<p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
+## Visit our official website to install the Whatsapp Bot : QR Code generator and full instructions available there. <div> 	<a href="https://yasasdileepa.github.io/Maraya/"> <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
     
-  </a>
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+ [![GitHub Actions Demo](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml/badge.svg)](https://github.com/yasasdileepa/Maraya/actions/workflows/github-actions-demo.yml)
+   
+### ⚠️ Warning! 
+```
+Due to Userbot; Your WhatsApp account may be banned.
+This is an open source project, you are responsible for everything you do. 
+Absolutely, Asena executives do not accept responsibility.
+By establishing the Asena, you are deemed to have accepted these responsibilities.
+```
+## 📢 Guide
+Click Whatsapp logo to Join Support Group 👇
+<br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IgFh0yQPaHU9tv1lrRaqLF)
+  <div align="center">
+    
+	
+  </div>
   
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
+  ## 🐱‍👤මාරයා bot විශේෂාංග
+🐱‍👤මාරයා bot විශේෂාංග මෙන්න.
+<a href="https://gist.github.com/yasasdileepa/7a3bc29b084c3347006a8a69b532287a">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+### HOW TO MADE THIS BOT CLICK THIS LOGO 👇
+[![Chethana_Broh-TeenuhX](https://github.com/yasasdileepa/maraya/blob/main/IMG-20211030-WA0010.png)](https://youtu.be/DjyQX8KJGKg)
 
   </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
+  ##Setup
+<div align="center">
+   🔌කරුනාවෙන් සලකන්න ඔබ සැම්සුන් පොන් බාවිත කරන්නෙක් නම් ඔබ සැම්සුන් ඉන්ටනෙට් එකෙන් ස්කැන් කරන්න එවිට ස්කැන් වෙ
 
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
+  ### Simple Method
+### පලමු පියවර QR කෙතය සදහා 👇🤴
+[![Run on Repl.it](https://repl.it/badge/github/BlackVampired/Amdibell)](https://replit.com/@yasasdileepa/MARAYA-1?v=1)
+### දෙවන පියවර Bot deploy කිරිමට 👇       
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasasdileepa/maraya)
+     </div>
+  ### very simple method 
+ ```we are working on it```
+### maraya team
+<td><a href="httsp://github.com/kgamdaofficial/"><img src="https://i.ibb.co/2dw0THr/Screenshot-20211031-110753-Whats-App.jpg" width="100" height="100" alt="Yasas dilipa"></a></td><td><a href="httsp://github.com/kgamdaofficial">Yasas dilipa</a></br>(founder)</td><td><a href="httsp://github.com/kgamdaofficial/">
+	<img scr =https://i.ibb.co/110644-Whats-App-Business.jpg"width="100"height="100"alt="black wampare"></a></td><td><a href="httsp://github.com/kgamdaofficial">black wampare </a></br>(meneger)</td>       
 
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
-
-  </a>
-</p>
-
-```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
-```
-
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
-<div>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
-
-## Queen Amdi Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/r7vZVqw/1-Amda.jpg" width="200" height="200" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/tsFBnbx/2-Sasmitha.jpg" width="200" height="200" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://i.ibb.co/6FZsnvQ/3-Sajiya.jpg" width="200" height="200" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://i.ibb.co/HzfN8pD/5-Joka.jpg" width="200" height="200" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-											</tr>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://www.thinknfree.com/"><img src="https://i.ibb.co/2kHWJBD/7-Zeus.jpg" width="200" height="200" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/x3MjnWn/8-Pancha.jpg" width="200" height="200" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/ySvhR4J/9-Saiko.jpg" width="200" height="200" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-
-### License
-This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
-
-### Disclaimer
-`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+												
+```මන් යසස් දිලිප මන් සහා මගෙ ටිම් එකට ඔයාලාට මෙ හදුන්වා දි තිබෙන්නෙ මාරයා whatsapp bot ය මෙ බොට් install කර ගැනිම සදහා අන්අය යම් කිසි බොයක් දක්වයි මෙ බොට් සදහා කිසි බියක් නොදක්වන්න මෙය සාමකාමි බොටෙක් කියා කාරුනික වන්න``` 
